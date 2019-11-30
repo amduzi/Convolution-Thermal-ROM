@@ -2,7 +2,7 @@
 A Thermal ROM method based on LTI &amp; convolution.
 
 ## CFD compare to CTROM
-for a steady state analysis, we see a difference between 0.5'C and using no more than 3mins for up to 6sources to 7 monitor points calculation.
+for a steady state analysis, we see a difference between 0.5'C and using no more than 20sec for up to 6sources to 7 monitor points calculation.
 ![screenshot](data/cfd2rom1.jpg)
 
 ## A system level temperature control policy sim
