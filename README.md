@@ -8,3 +8,6 @@ for a steady state analysis, we see a difference between 0.5'C and using no more
 ## A system level temperature control policy sim
 Evaluate your system level control policy in less than 25secs
 ![screenshot](data/Tcontrol1.jpg)
+
+
+**Currently, we will not open all source to public, just open some DEMO
